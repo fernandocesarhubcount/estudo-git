@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+
+</head>
+<body>
+<<<<<<< HEAD
+  <h1>Projeto do Fernando C&eacte;sar</h1>
+=======
+  <h1>Projeto do Fernando Czar</h1>
+>>>>>>> 78916702850c4f8533ae035a0690a956fe68f7ce
+  <h2>
+    Alteracao para teste usando o GIT
+  </h2>
+  <p>
+    Brincando com o GIT
+    <hr>
+    Adicionando texto para ver o comando git add -i funcionando
+  </p>
+</body>
+</html>
